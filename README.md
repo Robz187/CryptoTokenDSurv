@@ -8,12 +8,12 @@ dfx identity get-principal
 
 2. Save it somewhere.
 
-e.g. My principal id is: lnjig-hlkgx-nec65-zqz2v-meqd6-izgcp-yu3r5-7p5ua-wy2d5-mos3h-3ae
+e.g. My principal id is: 
 
 
 3. Format and store it in a command line variable:
 ```
-OWNER_PUBLIC_KEY="principal "lnjig-hlkgx-nec65-zqz2v-meqd6-izgcp-yu3r5-7p5ua-wy2d5-mos3h-3ae"""
+OWNER_PUBLIC_KEY="principal ""
 ```
 
 4. Check that step 3 worked by printing it out:
